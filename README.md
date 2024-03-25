@@ -19,8 +19,8 @@
 >> Front-end
 >> - Language : javascript
 >> - Skill : React.js
->Link: [테스트][googlelink]
-[googlelink]: https://google.com "Go google"
+>> 
+> [프로젝트 상세 설명(Back-end)](https://google/com)  
 
 <br />
 
