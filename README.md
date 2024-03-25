@@ -8,8 +8,9 @@ Projects
 >개발기간 : 2022 - 20202&nbsp;
 >
 >구현기능 : 게시판 등등 어쩌구 저쩌구
->>backend
->>frond end
+>>backend : &nbsp;
+>>
+>>frond end : 
 
 &nbsp;
 
