@@ -9,8 +9,11 @@ Projects
 >
 >구현기능 : 게시판 등등 어쩌구 저쩌구
 >>Back-end : &nbsp;
+>>
 >>+language : &nbsp;
+>>
 >>+skill : &nbsp;
+>>
 >>Front-end : 
 
 &nbsp;
