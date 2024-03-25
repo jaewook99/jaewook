@@ -5,6 +5,10 @@ Projects
 
 1.펫테일
 -
+>개발기간
+>구현기능
+>>backend
+>>frond end
 
 
 >
