@@ -68,5 +68,17 @@
 >> Front-end
 >> - HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax
 >
+>> Server
+>> - Apache, Apache Tomcat 9.0
+>
+>> database
+>> - Oracle 11
+>
+>> Tools
+>> - VScode, STS, SQL Developer
+>
+>> Collaboration & Design & Document
+>> - Discord, ERDCloud, GitHub, Notion, Sourcetree, Trello, Figma
+>
 > [프로젝트 상세 설명(Back-end)](https://google/com)
 
