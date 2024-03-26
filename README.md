@@ -64,8 +64,6 @@
 >> Back-end
 >> - Language : 
 >> - Skill :
->> 
->> 
 >
 >> Front-end
 >> - Language : 
