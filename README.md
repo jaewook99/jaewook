@@ -62,23 +62,23 @@
 > - 개발기간 : 2023.4.3-2023.6.12
 > - 역할 : 이슈관리자 / 관리자 페이지, 관리자 계정 및 회원 신고 처리 통계 조회
 >
->> Back-end
->> - Java 1.8, Spring Boot 5.3.22, RESTful API(JSON), Mybatis
->
->> Front-end
->> - HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax
->
->> Server
->> - Apache, Apache Tomcat 9.0
+>> Back-End
+>> - Java 1.8, Mybatis, RESTful API(JSON), Spring Boot 5.3.22
 >
 >> Database
 >> - Oracle 11
 >
+>> Front-End
+>> - Ajax, Bootstrap, CSS, HTML, JavaScript, jQuery
+>
+>> Server
+>> - Apache, Apache Tomcat 9.0
+>
 >> Tools
->> - VScode, STS, SQL Developer
+>> - STS, SQL Developer, VScode
 >
 >> Collaboration & Design & Document
->> - Discord, ERDCloud, GitHub, Notion, Sourcetree, Trello, Figma
+>> - Discord, ERDCloud, Figma, GitHub, Notion, Sourcetree, Trello
 >
 > [프로젝트 상세 내용](https://google/com)
 
