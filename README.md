@@ -58,7 +58,7 @@
 >> - Eclipse IDE, SQL Developer, VScode
 >
 >> Collaboration & Design & Document
->> - Discord, ERDCloud GitHub, Notion, Sourcetree
+>> - Discord, ERDCloud, GitHub, Notion, Sourcetree
 >
 > [프로젝트 상세 내용](https://google/com)
 
