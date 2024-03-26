@@ -51,7 +51,7 @@
 >> - Language : javascript
 >> - Skill : React.js
 >> 
-> [프로젝트 상세 설명(Back-end)](https://google/com)
+> [프로젝트 상세 내용](https://google/com)
 
 <br />
 
@@ -80,5 +80,5 @@
 >> Collaboration & Design & Document
 >> - Discord, ERDCloud, GitHub, Notion, Sourcetree, Trello, Figma
 >
-> [프로젝트 상세 설명(Back-end)](https://google/com)
+> [프로젝트 상세 내용](https://google/com)
 
