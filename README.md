@@ -62,12 +62,9 @@
 > - 맡은 역할 : 
 >
 >> Back-end
->> - Language : 
->> - Skill :
+>> - Java 1.8, Spring Boot 5.3.22, RESTful API(JSON), Mybatis
 >
 >> Front-end
->> - Language : 
->> - Skill : 
->>
+>> - HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax
 > [프로젝트 상세 설명(Back-end)](https://google/com)
 
