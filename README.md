@@ -41,16 +41,25 @@
 > - 개발기간 : 2023.2.27 - 2023.3.31
 > - 맡은 역할 : 
 >
->> Back-end
->> - Language : 
->> - Skill :
->> 
->> 
 >
->> Front-end
->> - Language : javascript
->> - Skill : React.js
->> 
+>> Back-End
+>> - Java 1.8
+>
+>> Database
+>> - Oracle 11
+>
+>> Front-End
+>> - Bootstrap, CSS, HTML
+>
+>> Server
+>> - Apache, Apache Tomcat 9.0
+>
+>> Tools
+>> - Eclipse IDE, SQL Developer, VScode
+>
+>> Collaboration & Design & Document
+>> - Discord, ERDCloud GitHub, Notion, Sourcetree
+>
 > [프로젝트 상세 내용](https://google/com)
 
 <br />
