@@ -58,7 +58,7 @@
 >> Collaboration & Design & Document
 >> - Discord, ERDCloud, GitHub, Notion, Sourcetree
 >
-> [프로젝트 상세 내용]([https://google/com](https://github.com/jaewook99/pettail))
+> [프로젝트 상세 내용](https://google/com)
 
 <br />
 
@@ -88,5 +88,5 @@
 >> Collaboration & Design & Document
 >> - Discord, ERDCloud, Figma, GitHub, Notion, Sourcetree, Trello
 >
-> [프로젝트 상세 내용](https://google/com)
+> [프로젝트 상세 내용](https://github.com/jaewook99/pettail)
 
