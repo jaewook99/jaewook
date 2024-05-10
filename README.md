@@ -88,5 +88,5 @@
 >> Collaboration & Design & Document
 >> - Discord, ERDCloud, Figma, GitHub, Notion, Sourcetree, Trello
 >
-> [프로젝트 상세 내용](https://github.com/jaewook99/pettail)
+> [프로젝트 상세 내용](https://github.com/jaewook99/island)
 
